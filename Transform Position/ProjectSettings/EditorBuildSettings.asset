@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/Menu.unity
+    guid: dcfefa5310571bb4682fb256c5a33656
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/1Level 1.unity
+    guid: f5ae454ecc99cd2448b88f9e35569436
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/2Level.unity
+    guid: 63b47420b3f2d1a49b9da729c1705c82
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/3Level.unity
+    guid: 86b7b43657ef74447b2ea25c8b5f967a
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/4 Level.unity
+    guid: 94d5ce22a74b2424cbf2613a3bdf563d
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/5Level.unity
+    guid: 33fbf425723db064baf31c2d6d8875f3
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/6Level.unity
+    guid: 07f4063d8f5ac79478a5dbde1330f1b8
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/7Level.unity
+    guid: c9458d6b945ff9e479ae9530939731b3
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/8Level.unity
+    guid: 32aed014cbce9ed488c858c6bb3251de
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/9Level.unity
+    guid: 9501bbe17fb59b44f8870fc5c280478c
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/10Level.unity
+    guid: 7bc62932dc8e7a94b9af08216caa6121
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/11Level.unity
+    guid: 9c09c7da7cafa5b40925e40d9f370dac
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/12Level.unity
+    guid: 86c81fabcc1a3a14c9519648aa1e569c
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/13Level.unity
+    guid: c327b43f9ab5f324a91b1484ff991dec
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/14Level.unity
+    guid: 363836c77e92fb84a838cdba22ba9597
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/15Level.unity
+    guid: fe462de39d5ba9343a330a341cf2401d
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/16Level.unity
+    guid: 6f923c0080545b74cacad6858907f4e1
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/17Level.unity
+    guid: 5bd669cc85fd98b4a802c9478dcaee37
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/18Level.unity
+    guid: 2dc7d2a0f85a8e74cb867d53a17773df
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/19Level.unity
+    guid: 561212ba1ca1da74a864256e379f84d7
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/20Level.unity
+    guid: a34ae5891a64eca48be4a31f6a54de74
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/21Level.unity
+    guid: cd0262ac0eec8144ba87d53ebeeb0aab
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/22Level.unity
+    guid: cf61ee4a921581a44825868706607f33
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/23Level.unity
+    guid: ee223f9ed9e91344f930abe680b16a46
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/24Level.unity
+    guid: 004af66bd23d9c24898121b999eb4ab1
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/25Level.unity
+    guid: 6dc7725b2d505fb49b57cb9c0bc6b9c1
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/26Level.unity
+    guid: 7ea16cfd954525a4a925515cb277bcc5
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/27Level.unity
+    guid: 6e9da596e0eed8043a628c9e78ead5b8
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/28Level.unity
+    guid: 21b3b2a3fa7947a409ae579d283c23ed
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/29Level.unity
+    guid: 8f1c8509803aee1458ba0c17572ce697
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/30Level.unity
+    guid: 050c4c4f640008344a1483e19187dd2e
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/31Level.unity
+    guid: c3d60df1f96fce54f90b9fd3fc74ec16
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/32Level.unity
+    guid: ea8b8cd8c5b3baa4288df86123fe19b1
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/33Level.unity
+    guid: 6179c32a69c895b46aa2b8082e6d3cc9
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/34Level.unity
+    guid: 7b0978ed32502d6438c83e1f47b804a2
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/35Level.unity
+    guid: f0e0342987cc5394ea976bdb76119cc5
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/36Level.unity
+    guid: 70b7705cb67524f41b8cc0fa24bf96bc
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/37Level.unity
+    guid: 5f6e6edad237e994c9eca07d33f5dd0d
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/38Level.unity
+    guid: 1ad3a87f3a2bb4e489171b750088cbdd
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/39Level.unity
+    guid: b8274c0d949272c4992c57cc2d1d028e
+  - enabled: 1
+    path: Assets/Game/Demo/Scenes/40Level.unity
+    guid: ac78554c5d280e648bb3ce89f08625e1
+  m_configObjects: {}
